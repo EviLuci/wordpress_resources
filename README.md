@@ -1,2 +1,2 @@
-# wordpress_scripts
-my html, css and js scripts for wordpress 
+# WordPress Resources
+Somethings I have used
